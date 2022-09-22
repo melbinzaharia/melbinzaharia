@@ -4,7 +4,7 @@
 
 <div align="center">
 <div>
-  <a href="https://elaborate-figolla-2472d3.netlify.app/">
+  <a href="https://melbinzaharia.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/1WTdZz2RePwwizP5aeRJCmf6v0hGFrN5o/view?usp=sharing">
