@@ -12,9 +12,7 @@
   </a>
 </div>
 
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" height="100px"/>
-  I'm Melbin Zacharia.....!!
+ 
 </h1>
 <div align="center">
  
