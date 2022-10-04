@@ -35,7 +35,6 @@ A motivated individual with in-depth knowledge of language and development tools
 
 <p dir="auto"><a href="https://www.facebook.com/melbinzacharia" rel="nofollow"><img src="https://user-images.githubusercontent.com/81063456/160662567-0d63ae41-286e-40a0-9d46-ce3f4b754146.png" alt="1" style="max-width: 100%;"></a>
 <a href="https://www.instagram.com/melbinzachariah/" rel="nofollow"><img src="https://user-images.githubusercontent.com/81063456/160662362-bee2e57d-d47e-4f2d-b481-72b9aced24a5.png" alt="3" style="max-width: 100%;"></a>
-
 <a href="https://www.linkedin.com/in/melbin-zacharia-3a0189143/" rel="nofollow"><img src="https://user-images.githubusercontent.com/81063456/160662372-9c743885-ddc8-4dda-9f49-01250900b8f6.png" alt="6" style="max-width: 100%;"></a>
 <a href="mailto:melbinzacharia@gmail.com"><img src="https://user-images.githubusercontent.com/81063456/160662378-2fd26f8c-0fa6-44b0-9afc-6c1c71a3bc9b.png" alt="7" style="max-width: 100%;"></a></p>
 
