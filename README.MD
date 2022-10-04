@@ -5,7 +5,7 @@
   <a href="https://melbinzaharia.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1INU8aXXpk9zfSEEn6_bokUXyE-0DRPMe/view?usp=sharing">
+  <a href="https://github.com/melbinzaharia/Resume/blob/main/Melbin_Zacharia_Resume_03-10-2022-20-32-57.pdf">
     <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
