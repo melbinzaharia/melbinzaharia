@@ -19,7 +19,7 @@
 A motivated individual with in-depth knowledge of language and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">   I am a Java Developer 
-- 🌱 I’m currently looking for an opportunity as a Java developer
+- 🌱 I’m currently looking for an opportunity as a FullStack Developer
 
 - :telescope: My strength is my passion for work, and my motivation to learn and grow professionally.
 
